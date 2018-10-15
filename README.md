@@ -1,2 +1,3 @@
 # hello-world
-A NEW MAN
+一个新人
+一个正在认知世界的半人.
